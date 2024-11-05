@@ -35,3 +35,7 @@
 * Java Developer at EvotorOFD
 * Java Developer at Sberbank
 * Java Developer at Millennials Consulting
+
+## Languages
+* Russian (Native)
+* English (B2)
