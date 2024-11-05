@@ -29,3 +29,9 @@
 
 ## Education
 * National Research Nuclear University MEPhI specialization: economic security
+
+## Experience
+* Senior Java Developer at PPR
+* Java Developer at EvotorOFD
+* Java Developer at Sberbank
+* Java Developer at Millennials Consulting
