@@ -26,3 +26,6 @@
 * Hibernate
 * MongoDB Redis
 * Kubernetes Docker
+
+## Education
+* National Research Nuclear University MEPhI specialization: economic security
